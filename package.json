@@ -1,0 +1,29 @@
+{
+  "name": "calendo.ts",
+  "version": "1.0.0",
+  "description": "Some calendar ui components combined with a date-only logic implementation.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auldo/calendo.ts.git"
+  },
+  "keywords": ["calendar", "react", "ui", "component"],
+  "author": "Dominik Aulinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auldo/calendo.ts/issues"
+  },
+  "homepage": "https://github.com/auldo/calendo.ts#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.25",
+    "react": "^18.2.0"
+  }
+}
